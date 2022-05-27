@@ -1,2 +1,2 @@
 # ncolor
-Ncurses color palette
+Ncurses color palette.
